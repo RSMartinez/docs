@@ -28,8 +28,9 @@ Displays all open orders along with their ID’s, Reps, Type, Order Date, Purcha
  
 ![POS Open_Orders](./RPOS-openorders.png)
 
-### Invoices
+### Outstanding Invoices
 Lists all outstanding invoices. Pulls this information from AP.E in Rover client. 
+This page also includes an aging summary and the ability to download or email the summary with PDF.
 
  ![POS Open_Invoices](./RPOS-openinvoices.png)
 
@@ -53,5 +54,6 @@ Confirm that the order information on the right of the page is correct then hit 
 ![POS Order_Completion](./RPOS-ordercomplete.png)
 
 The Sales Order has now been created.  Customers equipped with Rover Pay can continue to payment of the order. 
+
 
 <PageFooter />
